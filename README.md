@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**bugslifes/bugslifes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alejandro**, a passionate **cross-platform software developer** focused on building efficient, user-friendly, and innovative applications.
 
-Here are some ideas to get you started:
+I enjoy developing tools that blend artificial intelligence, backend services, and clean user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🛡️ AI Privacy Checker
+An intelligent privacy analyzer for websites or text, powered by AI.
+
+- Analyzes URLs or plain text to assess privacy risk.
+- Displays results using animated visual indicators.
+- Keeps a history of previous scans.
+- Works with or without user authentication.
+- Technologies: Angular, Node.js, PostgreSQL, AI (Ollama).
+
+## 🛠️ Technologies I Work With
+
+- **Languages**: Java, JavaScript, TypeScript, Python, SQL
+- **Frameworks**: Angular, Node.js, Express
+- **Databases**: PostgreSQL, SQLite
+- **Tools & Platforms**: Git, Docker, GitHub, Postman
+
+## 📫 Get in Touch
+
+- **Email**: [alejandrotacorontegnlez@gmail.com]
+
+---
+
+Thanks for stopping by!
